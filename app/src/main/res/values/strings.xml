@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="play">Play</string>
+    <string name="start_text">Ready to play a game of dice?</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_home">Home</string>
+    <string name="title_double_dice">Double Dice</string>
+    <string name="title_instructions">Instructions</string>
+    <string name="label_instructions">Instructions</string>
+</resources>
